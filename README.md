@@ -4,7 +4,7 @@
 So I will be very honest i have zero knowledge in python and i did this task totally with the help of gemini. If I do clear this round I will try to see what the commands do used in this code. We imported various libraries pandas for taking data from csv file, numpy to handle arrays, matlotlib to draw graphs
 
 **Task 2(Keeping Watch over odysseus)**
-https://www.tinkercad.com/things/91d3bJKi8Zg-athena/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2FFall
+https://www.tinkercad.com/things/91d3bJKi8Zg-athena/editel?returnTo=%2Fthings%2F91d3bJKi8Zg-athena&sharecode=g3ivLJIvZJi-lRzn1GdHhc30R7kzvCfKot5WwbaxYdY
 
 So I made a tradeoff in my mind since i am going to go totally on gemini for task one i will work on this totally from scratch without using gemini. Doing this task was definitely lot fun for me , it was my first time working with multiple sensors at the same time, so handling that part was tough since i have been learning arduino from Paul mc whorter (I am at 50 video rn btw :) ) and there we just use a single component so coding is much simpler, but here it got complex
 
